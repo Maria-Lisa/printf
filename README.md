@@ -1,2 +1,1 @@
-# printf
-My printf project
+Printf
