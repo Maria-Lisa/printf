@@ -2,7 +2,7 @@
 /**
  *_printf - is a function that selects the correct function to print.
  * @format: identifier to look for.
- * Return: the length of the string.
+ * Return: number of characters printed.
  */
 int _printf(const char * const format, ...)
 {
